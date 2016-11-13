@@ -26,7 +26,10 @@ $ npm run dev
 
 - Ready-to-use Framework7 plugin and example code
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
+For detailed explanation on how things work:
+- Check out my [video screencast](https://www.timo-ernst.net/blog/2016/11/13/how-to-get-started-with-framework7-vuejs-and-webpack).
+- Consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
 
 ### More information
 
