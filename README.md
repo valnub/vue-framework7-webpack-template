@@ -24,6 +24,8 @@ $ npm run dev
 
 - `npm run build`: build with HTML/CSS/JS minification.
 
+- Ready-to-use Framework7 plugin and example code
+
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
 
 ### More information
