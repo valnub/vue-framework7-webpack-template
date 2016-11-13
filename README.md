@@ -21,9 +21,7 @@ $ npm run dev
 ### What's Included
 
 - `npm run dev`: Webpack + `vue-loader` with proper config for source maps & hot-reload.
-
 - `npm run build`: build with HTML/CSS/JS minification.
-
 - Ready-to-use Framework7 plugin and example code
 
 For detailed explanation on how things work:
