@@ -14,7 +14,7 @@ module.exports = {
         test: /\.vue$/,
         loader: 'vue',
         options: {
-          // vue-loader options go here
+          sass: "vue-style-loader!css-loader!sass?indentedSyntax"
         }
       },
       {
@@ -33,7 +33,8 @@ module.exports = {
   },
   resolve: {
     alias: {
-      'vue$': 'vue/dist/vue'
+      'vue$': 'vue/dist/vue',
+      'Framework7Vue': path.join(__dirname, '/node_modules/framework7-vue/dist/framework7-vue.min.js')
     }
   },
   devServer: {
