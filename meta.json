@@ -3,17 +3,17 @@
     "name": {
       "type": "string",
       "required": true,
-      "label": "vue-framework7-webpack-template"
+      "label": "Project name"
     },
     "description": {
       "type": "string",
       "required": true,
-      "label": "A template for creating a new project with Framwork7, Vue.js and Webpack",
-      "default": "A template for creating a new project with Framwork7, Vue.js and Webpack"
+      "label": "Project description",
+      "default": "A Vue.js project with Framework7"
     },
     "author": {
       "type": "string",
-      "label": "Timo Ernst"
+      "label": "Author"
     }
   },
   "completeMessage": "To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm run dev"
