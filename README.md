@@ -18,14 +18,6 @@ $ npm install
 $ npm run dev
 ```
 
-### Issues
-
-If you get "undefined" in your GUI after starting the app, cd to your project folder and do this:
-
-1. cd node_modules/framework7-vue
-2. npm install
-3. gulp dist
-
 ### What's Included
 
 - `npm run dev`: Webpack + `vue-loader` with proper config for source maps & hot-reload.
@@ -36,6 +28,14 @@ For detailed explanation on how things work:
 - Check out my [video screencast](https://www.timo-ernst.net/blog/2016/11/13/how-to-get-started-with-framework7-vuejs-and-webpack).
 - Consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 - Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
+
+### Issues
+
+If you get "undefined" in your GUI after starting the app, cd to your project folder and do this:
+
+1. cd node_modules/framework7-vue
+2. npm install
+3. gulp dist
 
 ### More information
 
