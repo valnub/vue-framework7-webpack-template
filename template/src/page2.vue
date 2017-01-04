@@ -3,7 +3,7 @@
     f7-navbar(back-link='Back', title='Page 2', sliding='')
     f7-block This is page 2.
       br
-      | Data-binding {{mydata}}!
+      | Data-binding \{{mydata}}!
 </template>
 
 <script>

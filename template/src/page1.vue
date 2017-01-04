@@ -3,7 +3,7 @@
     f7-navbar(back-link='Back', title='Page 1', sliding='')
     f7-block This is page 1.
       br
-      | Data-binding {{mydata}}!
+      | Data-binding \{{mydata}}!
       p.red This text is 
        span red
       p.cursive This is 
