@@ -1,4 +1,4 @@
-<template lang="jade">
+<template lang="pug">
   div#app
     f7-views(navbar-through='')
       f7-view(main='', url='/', :dynamic-navbar='true')
