@@ -4,6 +4,12 @@
 
 > This template only works for Vue 2.0. Older versions like Vue 1.x are not supported!
 
+### Compatibility
+
+- Framework7 v1: yes
+- Framework7 v2: no
+- VueJS 2.x+: yes
+
 ### Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
