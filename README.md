@@ -8,7 +8,7 @@
 
 - Framework7 v1: yes
 - Framework7 v2: no
-- VueJS 2.x+: yes
+- VueJS 2.x (or higher): yes
 
 ### Usage
 
