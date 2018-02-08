@@ -1,8 +1,8 @@
 # vue-framework7-webpack-template
 
-> A simple template to get started with VueJS + Framework7 + Webpack.
+A simple template to get started with VueJS + Framework7 + Webpack.
 
-> This template only works for Vue 2.0. Older versions like Vue 1.x are not supported!
+***This repo is not mainted any more. It is very old, so please be aware that it will only work for Framework7 1.x! If you want the latest official up-to-date templates check the [Framework7.io website](http://framework7.io/templates/)!***
 
 ### Compatibility
 
