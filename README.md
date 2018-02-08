@@ -10,6 +10,8 @@
 - Framework7 v2: no
 - VueJS 2.x (or higher): yes
 
+-------------------------------
+
 ### Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
